@@ -1,0 +1,48 @@
+{
+  "_from": "https://www.atom.io/api/packages/totodile-syntax/versions/0.2.0/tarball",
+  "_id": "totodile-syntax@0.2.0",
+  "_inBundle": false,
+  "_integrity": "sha512-cP1dpCAsIOcjuuf/DRJj2GpnEo/enFO84pxwoSa4ZjB1T66Sn8cV9M54fOnoYHlG0E4odBclDZBT6Lrcjm8FPg==",
+  "_location": "/totodile-syntax",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/totodile-syntax/versions/0.2.0/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/totodile-syntax/versions/0.2.0/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/totodile-syntax/versions/0.2.0/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/totodile-syntax/versions/0.2.0/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/totodile-syntax/versions/0.2.0/tarball",
+  "_shasum": "5139bdc578f57c8f2bc8ba69ac5a1e75b3751c28",
+  "_spec": "https://www.atom.io/api/packages/totodile-syntax/versions/0.2.0/tarball",
+  "_where": "C:\\Users\\kenn2\\AppData\\Local\\Temp\\apm-install-dir-2021811-17272-1p6mbv0.cnqq",
+  "bugs": {
+    "url": "https://github.com/nnniro/totodile-syntax/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Totodile, I Choose You!",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/nnniro/totodile-syntax#readme",
+  "keywords": [
+    "syntax",
+    "theme",
+    "totodile",
+    "totodile",
+    "pokemon"
+  ],
+  "license": "MIT",
+  "name": "totodile-syntax",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nnniro/totodile-syntax"
+  },
+  "theme": "syntax",
+  "version": "0.1.0"
+}
