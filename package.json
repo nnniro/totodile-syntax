@@ -10,7 +10,10 @@
     "totodile",
     "pokemon"
   ],
-  "repository": "https://github.com/nnniro/totodile-syntax",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nnniro/totodile-syntax",
+  },
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
