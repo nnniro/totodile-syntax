@@ -10,7 +10,7 @@
     "totodile",
     "pokemon"
   ],
-  "repository": "https://github.com/atom/my-theme-syntax",
+  "repository": "https://github.com/nnniro/totodile-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
